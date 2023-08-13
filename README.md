@@ -1,2 +1,2 @@
-# my-first-repo
-For learning git hub
+# my-first-repo minor updates
+For learning git hub making again changes new 1
